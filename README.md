@@ -1,0 +1,2 @@
+# wp-plug
+wp php
